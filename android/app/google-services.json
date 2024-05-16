@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "125875526890",
+    "project_id": "treasurebook-38980",
+    "storage_bucket": "treasurebook-38980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125875526890:android:4980bd871e96fac9c70b93",
+        "android_client_info": {
+          "package_name": "com.example.treasure_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125875526890-23p31kd320d73ml71cfmq3j24ekvc8aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Tdq0c2nJnXFfZO5Mql_ukohQeCwrbJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125875526890-23p31kd320d73ml71cfmq3j24ekvc8aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125875526890-889nfp637d50es1g3grok29f04ukauij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.treasureBook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
